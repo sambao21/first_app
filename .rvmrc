@@ -1,1 +1,1 @@
-rvm use 1.9.3@railstutorialfirstapp
+rvm use 1.9.3@railstutorialfirstapp --create
